@@ -1,4 +1,4 @@
-# 🎇 Hello there! 🎇
+# 🎇 Hello there! 🎇 #
 
 I am Abhay, an *almost* 14 year old hobbyist developer.
 
@@ -10,7 +10,7 @@ I am Abhay, an *almost* 14 year old hobbyist developer.
 - 😄 Pronouns: He, him
 - ⚡ Fun fact: JavaScript frameworks are bloated ( time to piss a bunch of people off B) )
 
-## Check out these tabs for random stuff
+## Check out these tabs for random stuff ##
 
 <details>
 	<summary>
@@ -75,4 +75,4 @@ I am Abhay, an *almost* 14 year old hobbyist developer.
 	</a>
 </details>
 -->
-## Thanks for checking out my profile!
+## Thanks for checking out my profile! ##
