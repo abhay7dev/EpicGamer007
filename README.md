@@ -6,7 +6,7 @@ I am Abhay, an *almost* 14 year old hobbyist developer.
 - 🌱 I’m currently learning stuff in school
 - 👯 I’m looking to collaborate on NodeJS and Java projects
 - 🤔 I’m looking for help with nothing at the moment
-- 📫 How to reach me: Discord: EpicGamer007#5702
+- 📫 How to reach me: Create an issue on this repo :)
 - 😄 Pronouns: He, him
 - ⚡ Fun fact: JavaScript frameworks are bloated ( time to piss a bunch of people off B) )
 
