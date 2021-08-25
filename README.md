@@ -6,7 +6,7 @@ I am Abhay, a 14 year old just-for-fun developer
 - 🌱 I’m currently learning stuff nothing because im extremely lazy
 - 👯 I’m looking to collaborate on NodeJS and Java projects
 - 🤔 I’m looking for help with nothing at the moment
-- 📫 How to reach me: Create an issue on this repo :)
+- 📫 How to reach me: Create an issue on this repo or join my discord server [here](https://discord.gg/zDbbjKmZXy) :)
 - 😄 Pronouns: He, him
 - ⚡ Fun fact: ALL Frontend JavaScript frameworks are bloated ( time to piss a bunch of people off B) )
 
